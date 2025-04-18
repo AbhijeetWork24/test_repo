@@ -1,4 +1,4 @@
 a
 break
 print
-ok 
+ok -
