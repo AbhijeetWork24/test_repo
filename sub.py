@@ -1,3 +1,4 @@
 a
 break
 print
+ok 
